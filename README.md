@@ -3,7 +3,7 @@
 ## Status
   _Complete_ (Started Jul 2019)  
   **Released**: 24-SEP-2020  
-  &nbsp;&nbsp;Android: https://play.google.com/store/apps/details?id=com.MadeByMoonlight.The16Spaces  
+  &nbsp;&nbsp; Formerly available on Android: https://play.google.com/store/apps/details?id=com.MadeByMoonlight.The16Spaces  
   **Backlog**: https://trello.com/b/vZDZYaG4/tilespaces
 
 ## Concept
